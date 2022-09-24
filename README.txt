@@ -1,0 +1,1 @@
+This work uses four machine learning techniques and integrates 12 resampling methods to detect SLA violations for batch-based BDAAs in the cloud. I evaluate the efficiency of the proposed techniques in comparison with ideal and baseline classifiers based on a real-world trace dataset (Alibaba).
